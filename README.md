@@ -1,7 +1,8 @@
 Cyest Graph
 --------------------------------------------------------------------------------
 Uploaded to Github on Aug 19, 2016. This is an old Turbo Pascal 7.0 graphics library
-Faster than Borland BGI. No longer updated, it belongs to a museum.
+Faster than Borland BGI. No longer updated, it belongs to a museum. Initially
+uploaded to Garbo Uwasa Freeware & Shareware Archives in 1997.
 
 Last Update: December 22, 1999
 
