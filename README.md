@@ -1,15 +1,19 @@
-Uploaded to Github on Aug 19, 2016. This is an old Turbo Pascal 7.0 graphics library
-Faster than Borland BGI. No longer updated, just belongs to the museum.
+Cyest Graph
 --------------------------------------------------------------------------------
-Last Updated: December 22, 1999
+Uploaded to Github on Aug 19, 2016. This is an old Turbo Pascal 7.0 graphics library
+Faster than Borland BGI. No longer updated, it belongs to a museum.
 
-Requirement:
+Last Update: December 22, 1999
+
+Requirement
+--------------------------------------------------------------------------------
 1. At least 386-machine, running DOS 6.x or Win95/98 or DOSEMU under Linux
 2. Turbo Pascal 7.0 compiler (Real Mode)
 
 Demos by Micky H
+
+Info
 --------------------------------------------------------------------------------
-Information:
 - Last version (I will no longer create DOS programs)
 - No more runtime error if CYGRAPH.CSL is not available.
   It will display a friendlier message now.
@@ -39,8 +43,7 @@ Information:
 - Almost all procedures and functions written in assembly
 - All procedures & functions made by myself, except for FillPoly & Ellipse.
 
---------------------------------------------------------------------------------
-			Cyest Graph Unit Interface
+Cyest Graph Unit Interface
 --------------------------------------------------------------------------------
 Note : M = Pascal & Assembly language mixed
        P = Pure Pascal language
